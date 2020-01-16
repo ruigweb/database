@@ -1,0 +1,12 @@
+{
+    "name": "ruigweb/database",
+    "description": "Ruigweb Database Laravel Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Ruigrok van der Werven",
+            "email": "david@ruigweb.nl"
+        }
+    ],
+    "require": {}
+}
