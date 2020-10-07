@@ -1,5 +1,5 @@
 {
-    "name": "ruigweb/database",
+    "name": "ruigweb/vault",
     "description": "Ruigweb Database Laravel Package",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Ruigweb\\Database\\": "src"
+            "Ruigweb\\Vault\\": "src"
         }
     }
 }
